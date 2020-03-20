@@ -1,3 +1,3 @@
 # anotator
 
-Frontend of annotator
+Frontend of anotator
